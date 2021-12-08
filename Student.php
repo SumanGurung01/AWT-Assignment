@@ -46,6 +46,18 @@
       </a>
 
     </div>
+    
+    <div class="footer">
+      <div>
+        <p>Name : Suman Gurung</p>
+      </div>
+      <div>
+        <p>Registration Number : 201900250</p>
+      </div>
+      <div>
+        <p>email : suman_201900250@smit.smu.edu.in</p>
+      </div>
+    </div>
 
 
   </body>
